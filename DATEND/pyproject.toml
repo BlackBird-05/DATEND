@@ -1,0 +1,20 @@
+[build-system]
+requires = ["hatchling >= 1.26"]
+build-backend = "hatchling.build"
+name = "DATEND"
+version = "1.1.0"
+authors = [
+  { name="Ruotong Tian"},
+]
+description = "Application assisting IB English teachers everywhere"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+[project.urls]
+Homepage = "https://github.com/BlackBird-05/DATEND"
