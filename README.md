@@ -5,7 +5,6 @@ Additionally, DATEND will also highlight these instances for ease of viewing.
 This project is meant to be customisable with a layer of abstraction so teachers can feel free to add their own list of literary devices, themes, etc that DATEND will look out for.
 
 DATEND also utilises a trained Convolution Neural Network (CNN) model (richpredictor.pickle) that is trained on previous essays to suggest a grade based on the above analysis.
-The CNN Model code can be found in the 'extra files' directory of this project.
 
 Disclaimer: DATEND may not be necessarily accurate in determining a grade so teachers are suggested to vet through the essays and use the grade as a signpost.
 
